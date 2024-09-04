@@ -1,5 +1,5 @@
 {
-    "name": "danethomas/craft-cta-field",
+    "name": "statikbe/craft-cta-field",
     "description": "Call to action & link fields made easy",
     "type": "craft-plugin",
     "version": "3.0.0",
@@ -11,8 +11,8 @@
         "cta"
     ],
     "support": {
-        "docs": "https://github.com/danethomas/craft-ctafield/blob/master/README.md",
-        "issues": "https://github.com/danethomas/craft-ctafield/issues"
+        "docs": "https://github.com/statikbe/craft-ctafield/blob/master/README.md",
+        "issues": "https://github.com/statikbe/craft-ctafield/issues"
     },
     "license": "MIT",
     "authors": [
@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-          "danethomas\\cta\\": "src/"
+          "statikbe\\cta\\": "src/"
         }
     },
     "extra": {
@@ -34,7 +34,7 @@
         "handle": "cta",
         "hasCpSettings": false,
         "hasCpSection": false,
-        "changelogUrl": "https://raw.githubusercontent.com/danethomas/craft-ctafield/master/CHANGELOG.md",
-        "class": "danethomas\\cta\\CTA"
+        "changelogUrl": "https://raw.githubusercontent.com/statikbe/craft-ctafield/master/CHANGELOG.md",
+        "class": "statikbe\\cta\\CTA"
     }
 }
