@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-          "statikbe\\cta\\": "src/"
+          "danethomas\\cta\\": "src/"
         }
     },
     "extra": {
