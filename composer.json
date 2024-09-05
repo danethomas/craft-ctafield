@@ -1,5 +1,5 @@
 {
-    "name": "danethomas/craft-cta-field",
+    "name": "statikbe/craft-cta-field",
     "description": "Call to action & link fields made easy",
     "type": "craft-plugin",
     "version": "3.0.1",
@@ -17,7 +17,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Dane Thomas",
+            "name": "",
             "homepage": ""
         }
     ],
@@ -26,7 +26,7 @@
     },
     "autoload": {
         "psr-4": {
-          "danethomas\\cta\\": "src/"
+          "statikbe\\cta\\": "src/"
         }
     },
     "extra": {
